@@ -16,7 +16,7 @@ To run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KainnT/First-Steps-Jav-.git
+   git clone https://github.com/KainnT/First-Steps-Java.git
    ```
 ---
 
