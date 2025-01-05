@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a complilation of all the basic principles of programming in Java, contains from variable declaration to Object-Oriented programming basics, It was done by me while learning Java as a way to always come back to it if necessary.
+This is a compilation of the Java programming principles, contains from variable declaration to Object-Oriented programming basics, It was done by me while learning Java as a way to always come back to it if necessary.
 
 ## Prerequisites
 
