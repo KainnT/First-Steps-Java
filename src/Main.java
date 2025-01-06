@@ -1,11 +1,3 @@
-import javax.security.auth.Subject;
-import java.lang.classfile.constantpool.IntegerEntry;
-import java.time.LocalDate;
-import java.util.Arrays;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.HashMap;
-
 public class Main {
     /* static is to allow the variable in main to work in method */
     /* A static variable can only work with static methods */
