@@ -8,10 +8,10 @@ public class Main {
         //OOP JAVA
 
         //Calling the class user on a variable
-        user user = new user("Axel Salas", "2002-01-31");
+        user user = new user("John", "2002-01-31");
 
 
-        books books = new books("The man inside me","Tobias", 200);
+        books books = new books("Sherlock","Someone2", 200);
         AudioBook Dracula = new AudioBook("Dracula", "Someone", 3000);
         Ebook Jeeves = new Ebook("Carry on Jeeves", "P.G", 300, "PDF");
         System.out.println(Jeeves.toString());
